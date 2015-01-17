@@ -1,0 +1,9 @@
+diff --git a/Readme.txt b/Readme.txt
+index 4cd64de..8aae1a2 100644
+--- a/Readme.txt
++++ b/Readme.txt
+@@ -1 +1 @@
+-This is a new test file! This is an edit to the initial version of the file.  I am going to try to post this edit up to the git repository and see how it works.  I will then look that the difference between the two files using the git command.
+\ No newline at end of file
++This is a new test file! This is an edit to the initial version of the file.  I am going to try to post this edit up to the git repository and see how it works.  I will then look that the difference between the two files using the git command. This is another new test to commit the changes to the repository.
+\ No newline at end of file

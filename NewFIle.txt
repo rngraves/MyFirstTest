@@ -1,0 +1,10 @@
+.
+..
+.git
+NewFIle.txt
+Readme.txt
+.
+..
+.git
+NewFIle.txt
+Readme.txt
